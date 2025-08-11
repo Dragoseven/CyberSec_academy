@@ -1,6 +1,3 @@
-# CyberSec_academy
-A load of great resources for learning CyberSecurity like a Pro, no BS approach
-
 # 🛡️ CyberSec Academy
 
 > **Your Ultimate Hub for Cybersecurity Education and Resources** 🚀
