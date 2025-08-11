@@ -71,15 +71,15 @@ Welcome to CyberSec Academy! This comprehensive collection of cybersecurity reso
 
 ### 🏟️ Cyber Ranges
 **Real blue team skills in simulated environments**
-- [Platform](https://cyberranges.com/)
+- (https://cyberranges.com/)
 
 ### 🛡️ Cyber Defenders
 **Practice defending against real threats**
-- [Platform](https://cyberdefenders.org/)
+- (https://cyberdefenders.org/)
 
 ### ⚔️ LetsDefend
 **Blue team training and incident response simulation**
-- [Platform](https://letsdefend.io/)
+- (https://letsdefend.io/)
 
 ### 🦠 Malware Analysis Training
 **Learn to analyze real malware samples**
@@ -110,15 +110,15 @@ Welcome to CyberSec Academy! This comprehensive collection of cybersecurity reso
 ### 🐍 Essential Programming Skills
 
 **🎯 Codecademy** - Interactive coding courses
-- [Platform](https://www.codecademy.com/)
+- (https://www.codecademy.com/)
 - Perfect for learning Python, JavaScript, and more!
 
 **🎓 Harvard CS50** - Introduction to Computer Science
-- [Course](https://pll.harvard.edu/course/cs50-introduction-computer-science)
+- (https://pll.harvard.edu/course/cs50-introduction-computer-science)
 - World-renowned computer science fundamentals
 
 **🏅 OpenEDG** - Programming certifications
-- [Platform](https://edube.org/)
+- (https://edube.org/)
 - Get certified in Python and other languages!
 
 ---
@@ -130,11 +130,11 @@ Welcome to CyberSec Academy! This comprehensive collection of cybersecurity reso
 ### 🚀 Competition Platforms
 
 **🏆 Devpost** - Global hackathon community
-- [Platform](https://devpost.com/)
+- (https://devpost.com/)
 - Showcase projects and compete globally
 
 **⚡ HackerEarth** - Programming challenges and hackathons
-- [Platform](https://www.hackerearth.com/)
+- (https://www.hackerearth.com/)
 - Skill-based challenges and competitions
 
 ---
