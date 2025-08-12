@@ -10,7 +10,7 @@ Welcome to CyberSec Academy - a comprehensive collection of cybersecurity resour
 
 ### HackTheBox
 Comprehensive cybersecurity platform covering penetration testing, defensive security, and more.
-- **Pricing:** Free tier available, Premium subscriptions, Certifications $400
+- **Pricing:** Free tier available, Premium subscriptions, Certifications $500
 - **Main Site:** https://www.hackthebox.com/
 - **Academy:** https://academy.hackthebox.com/
 - **Labs:** https://app.hackthebox.com/
