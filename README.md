@@ -1,210 +1,182 @@
-# 🛡️ CyberSec Academy
+# CyberSec Academy
 
-> **Your Ultimate Hub for Cybersecurity Education and Resources** 🚀
+**Your Ultimate Hub for Cybersecurity Education and Resources**
 
-Welcome to CyberSec Academy! This comprehensive collection of cybersecurity resources is designed specifically for beginners who want to dive into the exciting world of information security. Whether you're interested in ethical hacking, blue team defense, or bug bounty hunting, we've got you covered!
-
-## 📊 Quick Stats
-
-- 🎯 **15+ Premium Platforms** - Handpicked educational resources
-- 💰 **Free & Paid Options** - Something for every budget
-- 🏆 **Certification Paths** - Industry-recognized credentials
-- 🌐 **Hands-on Labs** - Real-world practice environments
+Welcome to CyberSec Academy - a comprehensive collection of cybersecurity resources designed for beginners entering the field of information security. This curated list covers everything from foundational learning platforms to advanced certification paths.
 
 ---
 
-## 🎓 Best General Cybersecurity Educational Platforms
+## Best General Cybersecurity Educational Platforms
 
-### 🔥 HackTheBox
-*The ultimate all-in-one cybersecurity platform*
+### HackTheBox
+Comprehensive cybersecurity platform covering penetration testing, defensive security, and more.
+- **Pricing:** Free tier available, Premium subscriptions, Certifications $400
+- **Main Site:** https://www.hackthebox.com/
+- **Academy:** https://academy.hackthebox.com/
+- **Labs:** https://app.hackthebox.com/
 
-**What it covers:** Everything from beginner to advanced penetration testing, defensive security, and more!
+### TryHackMe
+Gamified cybersecurity learning platform with structured progression.
+- **Pricing:** Free and Premium tiers available
+- **Platform:** https://tryhackme.com/
 
-**💲 Pricing:** Free tier available, Premium subscriptions, Certifications $400
+### PortSwigger Web Security Academy
+Specialized platform focusing on web application security and penetration testing.
+- **Pricing:** Free learning content, Paid certification exams
+- **Main Platform:** https://portswigger.net/web-security
+- **Learning Paths:** https://portswigger.net/web-security/learning-paths
+- **All Labs:** https://portswigger.net/web-security/all-labs
 
-**🔗 Links:**
-- [Main Site](https://www.hackthebox.com/) - Your gateway to ethical hacking
-- [Academy](https://academy.hackthebox.com/) - Structured learning paths
-- [Labs](https://app.hackthebox.com/) - Hands-on practice machines
-
----
-
-### 🎮 TryHackMe
-*Gamified cybersecurity learning for everyone*
-
-**What it covers:** Complete cybersecurity curriculum with game-like progression
-
-**💲 Pricing:** Free and Premium tiers available
-
-**🔗 Links:**
-- [Main Site](https://tryhackme.com/) - Start your cyber journey here!
-
----
-
-### 🕸️ PortSwigger Web Security Academy
-*Master the art of web application security*
-
-**What it covers:** Deep dive into web penetration testing and application security
-
-**💲 Pricing:** Free learning content, Paid certification exams
-
-**🔗 Links:**
-- [Web Security Academy](https://portswigger.net/web-security) - Main learning hub
-- [Learning Paths](https://portswigger.net/web-security/learning-paths) - Structured courses
-- [All Labs](https://portswigger.net/web-security/all-labs) - Practice environments
+### Cisco Networking Academy
+Industry-standard networking education crucial for cybersecurity professionals.
+- **Platform:** https://www.netacad.com/
 
 ---
 
-### 🌐 Cisco Networking Academy
-*Build the networking foundation every cybersecurity pro needs*
+## Blue Team Training and Simulation
 
-**What it covers:** Comprehensive networking skills crucial for cybersecurity careers
+### Cyber Ranges
+Platform for practicing real blue team skills in simulated environments.
+- **Platform:** https://cyberranges.com/
 
-**🔗 Links:**
-- [NetAcad](https://www.netacad.com/) - Industry-standard networking education
+### Cyber Defenders
+Hands-on blue team training with real-world defensive scenarios.
+- **Platform:** https://cyberdefenders.org/
 
----
+### LetsDefend
+Blue team training and incident response simulation platform.
+- **Platform:** https://letsdefend.io/
 
-## 🔵 Blue Team Training and Simulation
-
-*Defend like a pro! Master the art of cybersecurity defense*
-
-### 🏟️ Cyber Ranges
-**Real blue team skills in simulated environments**
-- (https://cyberranges.com/)
-
-### 🛡️ Cyber Defenders
-**Practice defending against real threats**
-- (https://cyberdefenders.org/)
-
-### ⚔️ LetsDefend
-**Blue team training and incident response simulation**
-- (https://letsdefend.io/)
-
-### 🦠 Malware Analysis Training
-**Learn to analyze real malware samples**
-- [Malware Traffic Analysis](https://www.malware-traffic-analysis.net/training-exercises.html)
-- ⚠️ **Important:** Use a virtual machine when accessing these resources!
+### Malware Analysis Training
+Real-life malware examples with guided analysis exercises.
+- **Platform:** https://www.malware-traffic-analysis.net/training-exercises.html
+- **Note:** Use a virtual machine when accessing these resources
 
 ---
 
-## 🐛 Bug Bounty Programs
+## Bug Bounty Programs
 
-*Turn your hacking skills into rewards! Find bugs, earn bounties*
+### HackerOne
+World's largest bug bounty and vulnerability disclosure community.
+- **Platform:** https://www.hackerone.com/
 
-### 💰 Top Bug Bounty Platforms
+### BugCrowd
+Crowdsourced cybersecurity platform connecting researchers with organizations.
+- **Platform:** https://www.bugcrowd.com/
 
-| Platform | Description | Link |
-|----------|-------------|------|
-| 🥇 **HackerOne** | World's largest bug bounty community | [hackerone.com](https://www.hackerone.com/) |
-| 🏆 **BugCrowd** | Crowdsourced cybersecurity platform | [bugcrowd.com](https://www.bugcrowd.com/) |
-| 🎯 **Intigriti** | European bug bounty platform | [intigriti.com](https://www.intigriti.com/) |
-| 🔍 **Google Bug Hunters** | Find bugs in Google products | [bughunters.google.com](https://bughunters.google.com/) |
+### Intigriti
+European bug bounty platform with focus on ethical hacking.
+- **Platform:** https://www.intigriti.com/
 
----
-
-## 💻 Coding and Programming Platforms
-
-*Master the languages that power cybersecurity*
-
-### 🐍 Essential Programming Skills
-
-**🎯 Codecademy** - Interactive coding courses
-- (https://www.codecademy.com/)
-- Perfect for learning Python, JavaScript, and more!
-
-**🎓 Harvard CS50** - Introduction to Computer Science
-- (https://pll.harvard.edu/course/cs50-introduction-computer-science)
-- World-renowned computer science fundamentals
-
-**🏅 OpenEDG** - Programming certifications
-- (https://edube.org/)
-- Get certified in Python and other languages!
+### Google Bug Hunters
+Official Google bug bounty program for finding vulnerabilities in Google products.
+- **Platform:** https://bughunters.google.com/
 
 ---
 
-## 🏁 Hackathon Platforms
+## Coding and Programming Platforms
 
-*Collaborate, innovate, and showcase your skills*
+### Codecademy
+Interactive coding courses for cybersecurity-relevant programming languages.
+- **Platform:** https://www.codecademy.com/
 
-### 🚀 Competition Platforms
+### Harvard CS50
+Introduction to Computer Science course from Harvard University.
+- **Course:** https://pll.harvard.edu/course/cs50-introduction-computer-science
 
-**🏆 Devpost** - Global hackathon community
-- (https://devpost.com/)
-- Showcase projects and compete globally
-
-**⚡ HackerEarth** - Programming challenges and hackathons
-- (https://www.hackerearth.com/)
-- Skill-based challenges and competitions
-
----
-
-## 🎯 Getting Started Guide
-
-### For Complete Beginners:
-1. **Start with TryHackMe** 🎮 - Beginner-friendly, gamified learning
-2. **Learn networking basics** 🌐 - Check out Cisco NetAcad
-3. **Pick your specialization** 🎯:
-   - **Offensive Security**: HackTheBox Academy
-   - **Defensive Security**: LetsDefend
-   - **Web Security**: PortSwigger Web Security Academy
-
-### For Intermediate Learners:
-1. **Practice on real machines** 🖥️ - HackTheBox Labs
-2. **Start bug bounty hunting** 🐛 - HackerOne/BugCrowd
-3. **Join competitions** 🏆 - Devpost hackathons
-
-### For Advanced Practitioners:
-1. **Pursue certifications** 📜 - HackTheBox, PortSwigger
-2. **Contribute to community** 🤝 - Write-ups, tutorials
-3. **Mentor newcomers** 👥 - Give back to the community
+### OpenEDG
+Programming language certifications, including Python certification programs.
+- **Platform:** https://edube.org/
 
 ---
 
-## 💡 Pro Tips for Success
+## Hackathon Platforms
 
-- 🔄 **Practice consistently** - Dedicate time daily
-- 📝 **Document everything** - Keep detailed notes
-- 🤝 **Join communities** - Discord servers, Reddit, Twitter
-- 🎯 **Focus on fundamentals** - Master the basics first
-- 🔍 **Stay curious** - Always ask "how?" and "why?"
+### Devpost
+Global hackathon community for showcasing projects and competing.
+- **Platform:** https://devpost.com/
 
----
-
-## 🤝 Contributing
-
-Found an amazing resource we missed? Want to improve this list? 
-
-- 🍴 Fork this repository
-- ➕ Add your resource with proper description
-- 📤 Submit a pull request
-- 🎉 Help others learn cybersecurity!
+### HackerEarth
+Programming challenges and hackathon hosting platform.
+- **Platform:** https://www.hackerearth.com/
 
 ---
 
-## 📞 Connect & Support
+## Cybersecurity Certification Roadmaps
 
-- ⭐ **Star this repo** if it helped you!
-- 🐛 **Report issues** if you find broken links
-- 💡 **Suggest improvements** via issues
-- 🔄 **Share** with fellow cyber enthusiasts
+### All Certifications Roadmap
+Complete overview of cybersecurity certification paths and career progression.
+- **Roadmap:** https://pauljerimy.com/security-certification-roadmap/
+
+### DoD Specific IA (Information Assurance) Certification Paths
+Department of Defense cybersecurity certification requirements for government positions.
+- **Guide:** https://intellectualpoint.com/dodd-8140/
+
+### CompTIA Certification Roadmap
+Widely recognized entry-level to advanced IT and cybersecurity certifications.
+- **Roadmap:** https://partners.comptia.org/docs/default-source/resources/it-certification-roadmap-8-5x11-print0c3c382c09d76fc19da8ff0a002c2329
+
+### GIAC Certifications
+Industry-standard hands-on cybersecurity certifications by focus area.
+- **Focus Areas:** https://www.giac.org/focus-areas/
+
+### Offensive Security Certifications
+Elite penetration testing certifications from the makers of Kali Linux.
+- **Courses:** https://www.offsec.com/courses/
+
+### HackTheBox Hands-on Certifications
+Practical cybersecurity certifications with real-world scenarios.
+- **Certifications:** https://academy.hackthebox.com/preview/certifications
 
 ---
 
-## 📄 License
+## Security-Focused Linux Operating Systems
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+### Kali Linux
+Most popular penetration testing and security auditing platform.
+- **Official Site:** https://www.kali.org/
+- **Features:** Pre-installed with 600+ security tools
+
+### Parrot OS
+Privacy-focused security operating system for development and testing.
+- **Official Site:** https://www.parrotsec.org/
+- **Features:** Lightweight alternative with privacy emphasis
 
 ---
 
-<div align="center">
+## Getting Started Recommendations
 
-**🛡️ Stay Safe, Stay Secure, Keep Learning! 🛡️**
+**For Complete Beginners:**
+1. Start with TryHackMe for gamified learning
+2. Learn networking fundamentals through Cisco NetAcad
+3. Choose specialization: Offensive (HackTheBox) or Defensive (LetsDefend)
 
-*Built with ❤️ by the cybersecurity community*
+**For Intermediate Learners:**
+1. Practice on HackTheBox Labs
+2. Begin bug bounty hunting on HackerOne
+3. Participate in hackathons via Devpost
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/cybersec-academy?style=social)](https://github.com/yourusername/cybersec-academy)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/cybersec-academy?style=social)](https://github.com/yourusername/cybersec-academy)
-[![GitHub watchers](https://img.shields.io/github/watchers/yourusername/cybersec-academy?style=social)](https://github.com/yourusername/cybersec-academy)
+**For Advanced Practitioners:**
+1. Pursue industry certifications (GIAC, OffSec)
+2. Contribute to the cybersecurity community
+3. Mentor newcomers in the field
 
-</div>
+---
+
+## Contributing
+
+To contribute to this resource list:
+1. Fork this repository
+2. Add resources with proper descriptions and working links
+3. Submit a pull request
+4. Help others learn cybersecurity
+
+---
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+---
+
+**Built by the cybersecurity community for aspiring security professionals**
