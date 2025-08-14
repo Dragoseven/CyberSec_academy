@@ -1,16 +1,16 @@
-# CyberSec Academy
+# 🛡️ CyberSec Academy
 
 **Your Ultimate Hub for Cybersecurity Education and Resources**
 
-Welcome to CyberSec Academy - a comprehensive collection of cybersecurity resources designed for beginners entering the field of information security. This curated list covers everything from foundational learning platforms to advanced certification paths.
+Welcome to CyberSec Academy - a comprehensive collection of cybersecurity resources designed for beginners entering the field of information security. This curated list covers everything from foundational learning platforms to advanced certification paths. As a beginner, you should start by picking one learning platform, one programming language, one Certification to aim towards, and a few YouTube channels to get started..
 
 ---
 
-## Best General Cybersecurity Educational Platforms
+## 🎓 Best General Cybersecurity Educational Platforms
 
 ### HackTheBox
 Comprehensive cybersecurity platform covering penetration testing, defensive security, and more.
-- **Pricing:** Free tier available, Premium subscriptions, Certifications $500
+- **Pricing:** Free tier available, Premium subscriptions, Certifications $400
 - **Main Site:** https://www.hackthebox.com/
 - **Academy:** https://academy.hackthebox.com/
 - **Labs:** https://app.hackthebox.com/
@@ -33,7 +33,7 @@ Industry-standard networking education crucial for cybersecurity professionals.
 
 ---
 
-## Blue Team Training and Simulation
+## 🔵 Blue Team Training and Simulation
 
 ### Cyber Ranges
 Platform for practicing real blue team skills in simulated environments.
@@ -54,7 +54,7 @@ Real-life malware examples with guided analysis exercises.
 
 ---
 
-## Bug Bounty Programs
+## 🐛 Bug Bounty Programs
 
 ### HackerOne
 World's largest bug bounty and vulnerability disclosure community.
@@ -74,7 +74,7 @@ Official Google bug bounty program for finding vulnerabilities in Google product
 
 ---
 
-## Coding and Programming Platforms
+## 💻 Coding and Programming Platforms
 
 ### Codecademy
 Interactive coding courses for cybersecurity-relevant programming languages.
@@ -90,7 +90,7 @@ Programming language certifications, including Python certification programs.
 
 ---
 
-## Hackathon Platforms
+## 🏆 Hackathon Platforms
 
 ### Devpost
 Global hackathon community for showcasing projects and competing.
@@ -102,7 +102,7 @@ Programming challenges and hackathon hosting platform.
 
 ---
 
-## Cybersecurity Certification Roadmaps
+## 📜 Cybersecurity Certification Roadmaps
 
 ### All Certifications Roadmap
 Complete overview of cybersecurity certification paths and career progression.
@@ -130,7 +130,7 @@ Practical cybersecurity certifications with real-world scenarios.
 
 ---
 
-## Security-Focused Linux Operating Systems
+## 🐧 Security-Focused Linux Operating Systems
 
 ### Kali Linux
 Most popular penetration testing and security auditing platform.
@@ -144,7 +144,45 @@ Privacy-focused security operating system for development and testing.
 
 ---
 
-## Getting Started Recommendations
+## 🛠️ Tools
+
+### 💻 Virtualization
+
+**Type 2 Hypervisors (Desktop Virtualization)**
+- **VMware Workstation Pro** - Professional desktop virtualization solution
+- **Oracle VirtualBox** - Free, open-source virtualization platform
+
+**Type 1 Hypervisors (Bare Metal)**
+- **Hyper-V** - Microsoft's enterprise virtualization platform
+
+### 🌐 Network Scanning
+
+Essential tools for network discovery and analysis:
+- **nmap** - Network discovery and security auditing tool
+- **Lansweeper** - Network asset discovery and management
+- **Angry IP Scanner** - Fast and lightweight IP address scanner
+- **WiFiMan** - WiFi network analyzer and scanner
+- **Fing** - Network discovery tool for mobile and desktop
+
+### 🔍 Vulnerability Scanners
+
+Professional vulnerability assessment tools:
+- **Nessus** - Industry-standard vulnerability scanner
+- **OpenVAS** - Open-source vulnerability assessment system
+
+### 🕵️ OSINT (Open Source Intelligence)
+
+**Intelligence Gathering Platforms:**
+- **Shodan** - Search engine for Internet-connected devices
+- **CISA Resources** - Cybersecurity and Infrastructure Security Agency tools
+
+**OSINT Resource Collections:**
+- **API Collection:** https://github.com/cipher387/API-s-for-OSINT?tab=readme-ov-file#universal-osint-apis
+- **RSS Feeds:** https://www.reddit.com/r/cybersecurity/comments/1fbeym6/current_updated_rss_feeds/
+
+---
+
+## 🚀 Getting Started Recommendations
 
 **For Complete Beginners:**
 1. Start with TryHackMe for gamified learning
