@@ -1,4 +1,4 @@
-# 🛡️ CyberSec Academy
+# 🛡️ CyberSec Academy by Seven
 
 **Your Ultimate Hub for Cybersecurity Education and Resources**
 
@@ -149,34 +149,34 @@ Privacy-focused security operating system for development and testing.
 ### 💻 Virtualization
 
 **Type 2 Hypervisors (Desktop Virtualization)**
-- **VMware Workstation Pro** - Professional desktop virtualization solution
-- **Oracle VirtualBox** - Free, open-source virtualization platform
+- **VMware Workstation Pro** - Professional desktop virtualization solution https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion
+- **Oracle VirtualBox** - Free, open-source virtualization platform https://www.oracle.com/virtualization/technologies/vm/downloads/virtualbox-downloads.html
 
 **Type 1 Hypervisors (Bare Metal)**
-- **Hyper-V** - Microsoft's enterprise virtualization platform
+- **Hyper-V** - Microsoft's enterprise virtualization platform https://learn.microsoft.com/en-us/windows-server/virtualization/hyper-v/get-started/install-hyper-v?tabs=powershell&pivots=win
 
 ### 🌐 Network Scanning
 
 Essential tools for network discovery and analysis:
-- **nmap** - Network discovery and security auditing tool
-- **Lansweeper** - Network asset discovery and management
-- **Angry IP Scanner** - Fast and lightweight IP address scanner
-- **WiFiMan** - WiFi network analyzer and scanner
-- **Fing** - Network discovery tool for mobile and desktop
+- **nmap** - Network discovery and security auditing tool https://nmap.org/
+- **Lansweeper** - Network asset discovery and management https://www.lansweeper.com/product/download/
+- **Angry IP Scanner** - Fast and lightweight IP address scanner https://angryip.org/download/#windows
+- **WiFiMan** - WiFi network analyzer and scanner https://ui.com/download/app/wifiman-desktop
+- **Fing** - Network discovery tool for mobile and desktop https://www.fing.com/desktop/
 
 ### 🔍 Vulnerability Scanners
 
 Professional vulnerability assessment tools:
-- **Nessus** - Industry-standard vulnerability scanner
-- **OpenVAS** - Open-source vulnerability assessment system
+- **Nessus** - Industry-standard vulnerability scanner https://www.tenable.com/downloads/nessus?loginAttempted=true
+- **OpenVAS** - Open-source vulnerability assessment system https://www.greenbone.net/en/openvas-free/
 
 ### 🕵️ OSINT (Open Source Intelligence)
 
 **Intelligence Gathering Platforms:**
-- **Shodan** - Search engine for Internet-connected devices
-- **CISA Resources** - Cybersecurity and Infrastructure Security Agency tools
+- **Shodan** - Search engine for Internet-connected devices https://www.shodan.io/
+- **CISA Resources** - Cybersecurity and Infrastructure Security Agency tools - https://www.cisa.gov/news-events/cybersecurity-advisories
 
-**OSINT Resource Collections:**
+**OSINT Repos:** 
 - **API Collection:** https://github.com/cipher387/API-s-for-OSINT?tab=readme-ov-file#universal-osint-apis
 - **RSS Feeds:** https://www.reddit.com/r/cybersecurity/comments/1fbeym6/current_updated_rss_feeds/
 
