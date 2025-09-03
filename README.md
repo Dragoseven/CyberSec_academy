@@ -144,7 +144,7 @@ Privacy-focused security operating system for development and testing.
 
 ---
 
-## 🛠️ Tools
+# 🛠️ Tools
 
 ### 💻 Virtualization
 
@@ -179,6 +179,185 @@ Professional vulnerability assessment tools:
 **OSINT Repos:** 
 - **API Collection:** https://github.com/cipher387/API-s-for-OSINT?tab=readme-ov-file#universal-osint-apis
 - **RSS Feeds:** https://www.reddit.com/r/cybersecurity/comments/1fbeym6/current_updated_rss_feeds/
+
+# 🌐 Online Security Analysis Tools
+
+Essential web-based tools for analyzing suspicious URLs, files, IPs, and network traffic. Perfect for threat hunting, incident response, and general security research.
+
+## 🔍 Multi-Engine Analysis Platforms
+
+### VirusTotal
+**The gold standard for malware analysis**
+- 🎯 **What it does**: Scans files, URLs, IPs, and domains using 70+ antivirus engines
+- 💡 **Best for**: Initial triage, file reputation checks, IOC analysis
+- 🔗 **Link**: [virustotal.com](https://www.virustotal.com/)
+- ⭐ **Pro tip**: Use the API for bulk analysis and integration with other tools
+
+### Hybrid Analysis
+**Advanced automated malware sandbox**
+- 🎯 **What it does**: Dynamic malware analysis with detailed behavioral reports
+- 💡 **Best for**: Understanding malware behavior, network communications
+- 🔗 **Link**: [hybrid-analysis.com](https://hybrid-analysis.com/)
+- ⭐ **Pro tip**: Offers both free and premium analysis options
+
+---
+
+## 🌍 URL & Domain Analysis
+
+### URLscan.io
+**Comprehensive URL analysis and screenshot service**
+- 🎯 **What it does**: Analyzes websites for malicious content, takes screenshots, maps resources
+- 💡 **Best for**: Phishing investigation, suspicious link analysis
+- 🔗 **Link**: [urlscan.io](https://urlscan.io/)
+- ⭐ **Pro tip**: Great for creating visual evidence of malicious websites
+
+### ANY.RUN
+**Interactive online malware sandbox**
+- 🎯 **What it does**: Real-time malware analysis with live interaction capabilities
+- 💡 **Best for**: Dynamic analysis, understanding user interaction-based malware
+- 🔗 **Link**: [any.run](https://any.run/)
+- ⭐ **Pro tip**: Watch malware execute in real-time through browser interface
+
+### Joe Sandbox
+**Advanced malware analysis platform**
+- 🎯 **What it does**: Automated dynamic analysis with comprehensive reporting
+- 💡 **Best for**: Enterprise-level malware analysis, detailed forensics
+- 🔗 **Link**: [joesandbox.com](https://www.joesandbox.com/)
+
+---
+
+## 🌐 IP Address & Network Analysis
+
+### MXToolBox
+**Complete network diagnostic toolkit**
+- 🎯 **What it does**: DNS lookups, blacklist checks, network diagnostics
+- 💡 **Best for**: Email security, domain reputation, network troubleshooting
+- 🔗 **Link**: [mxtoolbox.com](https://mxtoolbox.com/)
+- ⭐ **Pro tip**: Essential for email security investigations
+
+### AbuseIPDB
+**Community-driven IP reputation database**
+- 🎯 **What it does**: IP reputation checking with community reporting
+- 💡 **Best for**: Identifying malicious IPs, threat intelligence
+- 🔗 **Link**: [abuseipdb.com](https://www.abuseipdb.com/)
+- ⭐ **Pro tip**: Contribute back by reporting malicious IPs you discover
+
+### Cisco Talos Intelligence
+**Enterprise threat intelligence platform**
+- 🎯 **What it does**: IP/domain reputation, threat categorization, intelligence feeds
+- 💡 **Best for**: Professional threat hunting, security research
+- 🔗 **Link**: [talosintelligence.com](https://www.talosintelligence.com/)
+
+### Shodan
+**The search engine for Internet-connected devices**
+- 🎯 **What it does**: Discovers and analyzes internet-facing systems and services
+- 💡 **Best for**: Reconnaissance, vulnerability research, asset discovery
+- 🔗 **Link**: [shodan.io](https://www.shodan.io/)
+- ⭐ **Pro tip**: Use search filters to find specific services or vulnerabilities
+
+### IPVoid
+**IP reputation and risk assessment**
+- 🎯 **What it does**: IP blacklist checking, proxy detection, risk scoring
+- 💡 **Best for**: Quick IP reputation checks, threat assessment
+- 🔗 **Link**: [ipvoid.com](https://www.ipvoid.com/)
+
+---
+
+## 🛠️ Data Processing & Analysis Tools
+
+### CyberChef
+**The Swiss Army knife for data analysis**
+- 🎯 **What it does**: Encoding/decoding, encryption/decryption, data analysis
+- 💡 **Best for**: Malware analysis, forensics, data transformation
+- 🔗 **Link**: [gchq.github.io/CyberChef](https://gchq.github.io/CyberChef/)
+- ⭐ **Pro tip**: Chain operations together for complex data processing
+
+### ThreatYeti
+**Threat intelligence and IOC analysis**
+- 🎯 **What it does**: IOC analysis, threat hunting, intelligence correlation
+- 💡 **Best for**: Threat intelligence research, IOC validation
+- 🔗 **Link**: Check current status and access methods
+
+---
+
+## 📊 Social Engineering & OSINT Tools
+
+### Grabify
+**IP tracking and social engineering research** ⚠️
+- 🎯 **What it does**: Creates tracking links to gather IP information
+- 💡 **Best for**: Security awareness training, authorized penetration testing
+- 🔗 **Link**: [grabify.link](https://grabify.link/)
+- ⚠️ **Warning**: Only use for legitimate security testing with proper authorization
+
+### Have I Been Pwned
+**Data breach notification service**
+- 🎯 **What it does**: Checks if emails/passwords were involved in data breaches
+- 💡 **Best for**: Incident response, user awareness, security assessments
+- 🔗 **Link**: [haveibeenpwned.com](https://haveibeenpwned.com/)
+
+---
+
+## 🔧 Additional Specialized Tools
+
+### Browserling
+**Online cross-browser testing**
+- 🎯 **What it does**: Safe browsing of suspicious websites in isolated environments
+- 💡 **Best for**: Safely analyzing suspicious websites without local risk
+- 🔗 **Link**: [browserling.com](https://www.browserling.com/)
+
+### DNSlytics
+**DNS and domain intelligence**
+- 🎯 **What it does**: Reverse DNS lookups, domain relationships, historical data
+- 💡 **Best for**: Domain investigation, infrastructure mapping
+- 🔗 **Link**: [dnslytics.com](https://dnslytics.com/)
+
+### SecurityTrails
+**Internet intelligence and attack surface discovery**
+- 🎯 **What it does**: Historical DNS data, subdomain discovery, attack surface mapping
+- 💡 **Best for**: Reconnaissance, threat hunting, attack surface analysis
+- 🔗 **Link**: [securitytrails.com](https://securitytrails.com/)
+
+---
+
+## 🎯 Quick Analysis Workflow
+
+### For Suspicious Files:
+1. **VirusTotal** → Initial scan and reputation check
+2. **Hybrid Analysis** → Detailed behavioral analysis
+3. **ANY.RUN** → Interactive analysis if needed
+4. **CyberChef** → Extract and decode any embedded data
+
+### For Suspicious URLs:
+1. **URLscan.io** → Screenshot and resource analysis
+2. **VirusTotal** → Multi-engine URL reputation
+3. **Browserling** → Safe manual inspection if needed
+
+### For Suspicious IPs:
+1. **AbuseIPDB** → Community reputation check
+2. **Cisco Talos** → Professional threat intelligence
+3. **Shodan** → Service and vulnerability information
+4. **MXToolBox** → Network and blacklist analysis
+
+---
+
+## ⚠️ Safety Reminders
+
+- 🔒 **Always use a VM** when analyzing potentially malicious content
+- 🌐 **Never access suspicious URLs** directly from your main system  
+- 📝 **Document everything** - Screenshots, hashes, timestamps
+- 🤝 **Contribute back** - Report findings to threat intelligence platforms
+- ⚖️ **Stay legal** - Only use these tools for authorized security research
+
+---
+
+## 🔄 Pro Tips for Effective Analysis
+
+- **Cross-reference results** across multiple tools
+- **Check historical data** - When was the threat first seen?
+- **Look for patterns** - Similar hashes, domains, or infrastructure
+- **Use APIs** for bulk analysis when available
+- **Build your own workflow** based on your specific needs
+- **Stay updated** - New tools and features are constantly emerging
 
 ---
 
