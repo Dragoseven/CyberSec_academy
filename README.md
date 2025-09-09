@@ -367,6 +367,12 @@ Learn from the best! These YouTube channels offer high-quality cybersecurity edu
 
 ## 🎯 Comprehensive Security Education
 
+**Cyber Maddy** - Pentesting, Scripting, different tutorials
+(https://www.youtube.com/@Cyb3rMaddy)
+
+**Hak5** - All types of Red Team stuff
+(https://www.youtube.com/@hak5)
+
 **The Cyber Mentor (Heath Adams)** - Ethical hacking, penetration testing, and OSINT education with practical demonstrations  
 🔗 [@TCMSecurityAcademy](https://youtube.com/@TCMSecurityAcademy)
 
@@ -422,15 +428,6 @@ Learn from the best! These YouTube channels offer high-quality cybersecurity edu
 
 -----------------------------------
 
-## 🚀 Quick Learning Paths
-
-**Complete Beginner**: NetworkChuck → Professor Messer → The Cyber Mentor  
-**Penetration Testing**: The Cyber Mentor → IppSec → John Hammond  
-**Web Security**: PwnFunction → Nahamsec → STÖK  
-**Blue Team**: Professor Messer → 13Cubed → Security Weekly  
-**Advanced Technical**: LiveOverflow → John Hammond → Computerphile
------------------------------------
-
 ## 🚀 Getting Started Recommendations
 
 **For Complete Beginners:**
@@ -448,17 +445,8 @@ Learn from the best! These YouTube channels offer high-quality cybersecurity edu
 2. Contribute to the cybersecurity community
 3. Mentor newcomers in the field
 
------------------------------------
+----------------------------------
 
-## Contributing
-
-To contribute to this resource list:
-1. Fork this repository
-2. Add resources with proper descriptions and working links
-3. Submit a pull request
-4. Help others learn cybersecurity
-
----
 
 ## License
 
